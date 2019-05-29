@@ -8,7 +8,7 @@ package entity;
 public class HelloWorld extends Entity {
 
 	/** The id. */
-	private int			id;
+	private int		id;
 
 	/** The key. */
 	private String	key;
@@ -95,5 +95,4 @@ public class HelloWorld extends Entity {
 	public void setMessage(final String message) {
 		this.message = message;
 	}
-
 }
